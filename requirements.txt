@@ -46,3 +46,4 @@ wcwidth==0.2.14
 Werkzeug==3.1.4
 wsproto==1.2.0
 zstandard==0.23.0
+blackboxprotobuf
